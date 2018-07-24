@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+    font-size: 75px;
+    color: white;
+}
+h1{
+    color: white;
+    background-color: #6d6da2;
+    border-style: solid;
+    border-color: black;
+}
+.content{
+    text-align: center;
+}
+.paragraphs{
+    max-width: 750px;
+    margin: auto;
+}
+p{
+    text-align: center
+}
+
+.side-bar{
+    float: right;
+    max-width: 300px;
+}
